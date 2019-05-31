@@ -1,8 +1,8 @@
-module.exports = {
+{
   "development": {
     "username": "expresslynode-dbuser",
     "password": "fishface",
-    "database": "expressnode-db",
+    "database": "expresslynode-db",
     "host": "127.0.0.1",
     "dialect": "postgres",
     "port": 5432
